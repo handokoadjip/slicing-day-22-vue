@@ -1,4 +1,4 @@
-# day-1-vue
+# Eleks Website | IXM
 
 ## Project setup
 ```
